@@ -1,6 +1,6 @@
-[!Header(https://github.com/Agnevsky/AgnevskyIlya/blob/main/assets/giphy-backdrop.gif)](https://github.com/Agnevsky/AgnevskyIlya/blob/main/assets/giphy-backdrop.gif)
+[!Header](https://github.com/Agnevsky/AgnevskyIlya/blob/main/assets/giphy-backdrop.gif)
 
-About me
+## Я начинающий программист!
 
 Languages and Tools
 
