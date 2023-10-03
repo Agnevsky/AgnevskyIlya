@@ -14,7 +14,5 @@
 ![C](https://img.shields.io/badge/C-orange)
 
 ## Связаться со мной
-
-[![mail](https://img.shields.io/badge/mail-purple)](https://mail.yandex.ru/?from=tableau_yabro&uid=1224944789#inbox)
 [![instagram](https://img.shields.io/badge/instagram-purple)](https://instagram.com/i.agnevsky?igshid=NzZlODBkYWE4Ng==)
 [![telegram](https://img.shields.io/badge/telegram-purple)](https://t.me/Agnevsky21)
