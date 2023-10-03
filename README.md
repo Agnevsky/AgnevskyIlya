@@ -18,4 +18,4 @@
 [![telegram](https://img.shields.io/badge/telegram-purple)](https://t.me/Agnevsky21)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AGnevsky)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stat](https://github-readme-stats.vercel.app/api?username=AGnevsky)](https://github.com/anuraghazra/github-readme-stats)
